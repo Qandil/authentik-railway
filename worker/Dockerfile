@@ -1,4 +1,4 @@
-FROM ghcr.io/goauthentik/server:2025.4.1
+FROM ghcr.io/goauthentik/server:2025.6.4
 
 ARG AUTHENTIK_REDIS__HOST
 ARG AUTHENTIK_REDIS__PORT
